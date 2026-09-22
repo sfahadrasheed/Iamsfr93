@@ -1,129 +1,125 @@
 Hi, I’m Syed Fahad Rasheed 👋
 
-Junior Software Engineer | iOS Developer (Swift & SwiftUI) | Java Backend Developer
+iOS Developer Intern | Junior Software Engineer | Swift & SwiftUI | Java Backend Development
 
-I’m a Junior Software Engineer based in Ontario, Canada, currently pursuing a Diploma in Mobile Developer Using AI at triOS College.
+I’m a Junior Software Engineer and iOS Developer Intern at Guhuza, based in Ontario, Canada.
 
-I build native iOS applications using Swift and SwiftUI, along with Java backend applications using Object-Oriented Programming, REST APIs, SQL, and modern software engineering practices.
+I build native iOS applications using Swift and SwiftUI, while also developing Java applications and strengthening my backend development skills through REST APIs, SQL, and modern software engineering practices.
 
-I’m actively seeking full-time opportunities as a:
-
-* 💻 Junior Software Engineer
-* 📱 Junior iOS Developer
-* ☕ Java Backend Developer
+I’m currently completing my Diploma in Mobile Developer Using AI at triOS College, where I’m developing hands-on experience through application development, software testing, Git/GitHub, APIs, databases, and professional development workflows.
 
 ⸻
 
-About Me
+👨‍💻 About Me
 
-* 💻 Building native iOS and Java backend applications
-* 📱 Passionate about iOS Development and Software Engineering
-* 🌱 Currently learning Spring Boot, Software Architecture, and Design Patterns
-* 🤝 Open to collaborating on software development and open-source projects
-* 🇨🇦 Canadian Permanent Resident (No sponsorship required)
+* 📱 iOS development with Swift, SwiftUI and Xcode
+* 💻 Java application development and Object-Oriented Programming
+* 🌐 REST APIs, JSON, URLSession, Codable and asynchronous programming
+* 🏗️ MVVM concepts and reusable UI components
+* 🗄️ SQL and PostgreSQL fundamentals
+* 🧪 Debugging, testing and troubleshooting
+* 🛠️ Git and GitHub
+* 🤖 AI-assisted development workflows
+* 🌱 Continuously learning and improving my software engineering skills
+* 🇨🇦 Based in Ontario, Canada
 
 ⸻
 
-Technical Skills
+🛠️ Technical Skills
 
 💻 Programming Languages
 
-Java • Swift • JavaScript • SQL • HTML • CSS
+Java Swift JavaScript SQL HTML CSS
 
-📱 Mobile Development
+📱 iOS / Mobile Development
 
-SwiftUI • MVVM • NavigationStack • SwiftData • Async/Await
+SwiftUI Xcode MVVM NavigationStack SwiftData Async/Await
 
-⚙️ Backend Development
+⚙️ Backend & APIs
 
-REST APIs • JSON • CRUD Applications • Object-Oriented Programming (OOP)
+REST APIs JSON URLSession Codable CRUD OOP
 
 🗄️ Databases
 
-PostgreSQL • SQL
+SQL PostgreSQL
 
 🛠️ Developer Tools
 
-Git • GitHub • Xcode • IntelliJ IDEA • VS Code • Android Studio • Postman
+Git GitHub Xcode IntelliJ IDEA VS Code Postman
 
 ⸻
 
-Portfolio Projects
+🚀 Featured Projects
 
-🏋️ Apex Muscle
+🏋️ ApexMuscle
 
 Swift • SwiftUI • MVVM
 
-* Workout Tracking
-* BMI & Calorie Calculator
-* Nutrition Planning
-* Reusable Components
-* NavigationStack
+Native iOS fitness application featuring:
 
-⸻
+* Workout tracking
+* BMI and calorie calculators
+* Nutrition planning
+* Reusable SwiftUI components
+* NavigationStack navigation
+* State management
 
 🐾 PawsClaws
 
 Swift • SwiftUI • MVVM
 
-* Pet Adoption App
-* Search & Filtering
-* Favorites
-* Swipe Actions
-* ShareLink
-* Context Menus
+Pet adoption application featuring:
 
-⸻
+* Search and filtering
+* Sorting
+* Favorites
+* Swipe actions
+* Context menus
+* ShareLink
+* Reusable UI components
 
 🖼️ Art Institute Explorer
 
 Swift • SwiftUI • REST API
 
-* Art Institute of Chicago API
-* JSON Decoding
-* Async Networking
-* Search
-* AsyncImage
+iOS application integrating the Art Institute of Chicago API featuring:
 
-⸻
+* REST API integration
+* JSON decoding
+* URLSession
+* Async/Await
+* Artwork search
+* Navigation
+* AsyncImage
 
 👨‍💼 Employee Management System
 
 Java • OOP
 
-* CRUD Operations
+Java application demonstrating:
+
+* CRUD operations
 * Collections Framework
-* Exception Handling
-* Input Validation
-* Modular Design
+* Exception handling
+* Input validation
+* Object-Oriented Programming
+* Modular application design
 
 ⸻
 
-⚔️ Gym Battle
-
-Java • OOP
-
-* Battle Simulation
-* Inheritance
-* Polymorphism
-* Encapsulation
-* Game Logic
-
-⸻
-
-Currently Learning
+📚 Currently Learning
 
 * 🌱 Spring Boot
-* 🧪 Unit Testing (JUnit & XCTest)
-* 🚀 GitHub Actions (CI/CD)
+* 🧪 Unit Testing with JUnit & XCTest
+* 🚀 GitHub Actions / CI/CD
 * 🏗️ Software Architecture
 * 🎯 Design Patterns
+* 📱 Professional iOS Development
 
 ⸻
 
-Let’s Connect
+🤝 Let’s Connect
 
-* 💼 LinkedIn: www.linkedin.com/in/fahad-rasheed-syed-
-* 💻 GitHub: github.com/Iamsfr93
+💼 LinkedIn: Fahad Rasheed Syed
 
-I’m always happy to connect with software engineers, recruiters, hiring managers, and fellow developers.
+I’m always happy to connect with software engineers, iOS developers, recruiters, hiring managers, and fellow developers.
